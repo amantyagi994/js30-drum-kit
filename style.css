@@ -49,7 +49,7 @@ body {
 	font-family: "Comfortaa", cursive;
 	color: var(--text);
 	color: rgb(255, 187, 0);
-	background: url("/drumKit.jpg") no-repeat center/cover;
+	background: url("./drumKit.jpg") no-repeat center/cover;
 	user-select: none;
 }
 
